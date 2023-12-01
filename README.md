@@ -1,12 +1,14 @@
-### Hello, I'm Joe Bloggs! 👋
-Data Analyst and Data Scientist
+### Hello! 👋
 
 📊 About Me:
-* I'm currently working as a Data Analyst, deeply involved in data science tasks.
+* I'm currently working as a Data Analyst at Amazon, deeply involved in data science tasks.
 * I have an MSc in Statistics and BSc in Mathematics from the University of Sheffield.
 
-
-* I have a strong passion for Time Series Forecasting, Bayesian Modelling, and Modelling of Computer Experiments (particularly Gaussian Process Emulation).
+Data Science skills
+* Time Series Forecasting
+* Bayesian Modelling
+* Gaussian process optimisation
+* Expert elicitation
 
 🔗 Connect with Me:
 
