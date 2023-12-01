@@ -5,15 +5,13 @@
 * I have an MSc in Statistics and BSc in Mathematics from the University of Sheffield.
 
 Data Science skills
-* Time Series Forecasting
-* Bayesian Modelling
-* Gaussian process optimisation
-* Expert elicitation
+⏱️ Time Series Forecasting: Forecasting trends over time.
+📉 Bayesian Modelling: Applying Bayesian statistics to real-world data analysis. 
+🖥️ 
 
 🔗 Connect with Me:
 
-    LinkedIn
-    My Blog
+Feel free to explore my blog and connect with me through my LinkedIn. I'm always open to interesting discussions in the realm of data science and analytics.
 
 🌟 Projects Showcase:
 
@@ -28,4 +26,4 @@ Data Science skills
 
     In my personal time, I'm ...
 
-Feel free to explore my repositories and connect with me through my LinkedIn or blog. I'm always open to interesting discussions in the realm of data science and analytics.
+
