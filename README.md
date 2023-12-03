@@ -6,11 +6,11 @@
 
 Data Science skills:
 
-    ⏱️ Time Series Forecasting: Forecasting trends over time.
+    * ⏱️ Time Series Forecasting: Forecasting trends over time.
 
-    📉 Bayesian Modelling: Applying Bayesian statistics to real-world data analysis. 
+    * 📉 Bayesian Modelling: Applying Bayesian statistics to real-world data analysis. 
 
-    🖥️ Gaussian Process Emulation: Optimising machine learning models and computer experiments.
+    * 🖥️ Gaussian Process Emulation: Optimising machine learning models and computer experiments.
 
 🔗 Connect with Me:
 
