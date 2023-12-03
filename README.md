@@ -4,10 +4,13 @@
 * I'm currently working as a Data Analyst at Amazon, deeply involved in data science tasks.
 * I have an MSc in Statistics and BSc in Mathematics from the University of Sheffield.
 
-Data Science skills
-⏱️ Time Series Forecasting: Forecasting trends over time.
-📉 Bayesian Modelling: Applying Bayesian statistics to real-world data analysis. 
-🖥️ 
+Data Science skills:
+
+    ⏱️ Time Series Forecasting: Forecasting trends over time.
+
+    📉 Bayesian Modelling: Applying Bayesian statistics to real-world data analysis. 
+
+    🖥️ Gaussian Process Emulation: Optimising machine learning models and computer experiments.
 
 🔗 Connect with Me:
 
