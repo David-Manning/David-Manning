@@ -22,7 +22,7 @@ Feel free to explore my blog and connect with me through my LinkedIn. I'm always
     Proficient in R and Python.
     Experienced with cloud computing on AWS.
 
-🔍 Currently Exploring:
+🔍 Personal Interests:
 
     In my personal time, I'm ...
 
