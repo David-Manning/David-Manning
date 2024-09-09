@@ -7,10 +7,6 @@ I am a data scientist and statistician
 - Private repos: [Prompt library](https://github.com/David-Manning/prompt-library/tree/main) / [Dotfiles](https://github.com/David-Manning/dotfiles)
 - Discord bots: [Percival](https://github.com/David-Manning/percival)
 
-### Frequently accessed files
-- Prompt generator: [Link](https://github.com/David-Manning/prompt-library-public/blob/main/prompt-generator/prompt-generator.md)
-- Data Formatter: [JSON](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-json.yaml) [XML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-xml.yaml) [YAML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-yaml.yaml)
-
 ### Qualifications and Accreditations
 - GradStat (Royal Statistical Society)
 - MSc Statistics (University of Sheffield)
@@ -20,6 +16,10 @@ I am a data scientist and statistician
 ### Skills
 - Languages: R / Python / SQL / Bash
 - Cloud: AWS
+
+### Frequently accessed files
+- Prompt generator: [Link](https://github.com/David-Manning/prompt-library-public/blob/main/prompt-generator/prompt-generator.md)
+- Data Formatter: [JSON](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-json.yaml) [XML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-xml.yaml) [YAML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-yaml.yaml)
 
 ### My Repo Lists
 - [Dotfiles](https://github.com/stars/David-Manning/lists/dotfiles)
