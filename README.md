@@ -8,8 +8,15 @@ I am a data scientist and statistician
 - Discord bots: [Percival](https://github.com/David-Manning/percival)
 
 ### Frequently accessed files
-* Prompt generator: [Link](https://github.com/David-Manning/prompt-library-public/blob/main/prompt-generator/prompt-generator.md)
-* Data Formatter: [JSON](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-json.yaml) [XML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-xml.yaml) [YAML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-yaml.yaml)
+- Prompt generator: [Link](https://github.com/David-Manning/prompt-library-public/blob/main/prompt-generator/prompt-generator.md)
+- Data Formatter: [JSON](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-json.yaml) [XML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-xml.yaml) [YAML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-yaml.yaml)
+
+### Starred Repo Lists
+- [https://github.com/stars/David-Manning/lists/dotfiles](Dotfiles)
+- [https://github.com/stars/David-Manning/lists/bayesian](Bayesian)
+- [https://github.com/stars/David-Manning/lists/my-repos](My repos)
+- [https://github.com/stars/David-Manning/lists/lists-and-data](Lists and data)
+- [https://github.com/stars/David-Manning/lists/discord-bots](Discord bots)
 
 ### Qualifications and Accreditations
 - GradStat (Royal Statistical Society)
