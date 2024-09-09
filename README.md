@@ -22,8 +22,8 @@ I am a data scientist and statistician
 - Data Formatter: [JSON](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-json.yaml) [XML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-xml.yaml) [YAML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-yaml.yaml)
 
 ### My Repo Lists
-- [Dotfiles](https://github.com/stars/David-Manning/lists/dotfiles)
-- [Bayesian](https://github.com/stars/David-Manning/lists/bayesian)
-- [My repos](https://github.com/stars/David-Manning/lists/my-repos)
-- [Lists and data](https://github.com/stars/David-Manning/lists/lists-and-data)
-- [Discord bots](https://github.com/stars/David-Manning/lists/discord-bots)
+- Dotfiles: [Link](https://github.com/stars/David-Manning/lists/dotfiles)
+- Bayesian: [Link](https://github.com/stars/David-Manning/lists/bayesian)
+- My repos: [Link](https://github.com/stars/David-Manning/lists/my-repos)
+- Links and data: [Link](https://github.com/stars/David-Manning/lists/lists-and-data)
+- Discord Bots: [Link](https://github.com/stars/David-Manning/lists/discord-bots)
