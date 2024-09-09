@@ -11,12 +11,12 @@ I am a data scientist and statistician
 * Prompt generator: [Link](https://github.com/David-Manning/prompt-library-public/blob/main/prompt-generator/prompt-generator.md)
 * Data Formatter: [JSON](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-json.yaml) [XML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-xml.yaml) [YAML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-yaml.yaml)
 
-### Skills
-- Languages: R / Python / SQL / Bash
-- Cloud: AWS
-
-### Qualifications
+### Qualifications and Accreditations
 - GradStat (Royal Statistical Society)
 - MSc Statistics (University of Sheffield)
 - BSc Mathematics (University of Sheffield)
 - Connect: [LinkedIn](https://www.linkedin.com/in/dl-manning/)
+
+### Skills
+- Languages: R / Python / SQL / Bash
+- Cloud: AWS
