@@ -11,13 +11,6 @@ I am a data scientist and statistician
 - Prompt generator: [Link](https://github.com/David-Manning/prompt-library-public/blob/main/prompt-generator/prompt-generator.md)
 - Data Formatter: [JSON](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-json.yaml) [XML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-xml.yaml) [YAML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-yaml.yaml)
 
-### Starred Repo Lists
-- [Dotfiles](https://github.com/stars/David-Manning/lists/dotfiles)
-- [Bayesian](https://github.com/stars/David-Manning/lists/bayesian)
-- [My repos](https://github.com/stars/David-Manning/lists/my-repos)
-- [Lists and data](https://github.com/stars/David-Manning/lists/lists-and-data)
-- [Discord bots](https://github.com/stars/David-Manning/lists/discord-bots)
-
 ### Qualifications and Accreditations
 - GradStat (Royal Statistical Society)
 - MSc Statistics (University of Sheffield)
@@ -27,3 +20,10 @@ I am a data scientist and statistician
 ### Skills
 - Languages: R / Python / SQL / Bash
 - Cloud: AWS
+
+### My Repo Lists
+- [Dotfiles](https://github.com/stars/David-Manning/lists/dotfiles)
+- [Bayesian](https://github.com/stars/David-Manning/lists/bayesian)
+- [My repos](https://github.com/stars/David-Manning/lists/my-repos)
+- [Lists and data](https://github.com/stars/David-Manning/lists/lists-and-data)
+- [Discord bots](https://github.com/stars/David-Manning/lists/discord-bots)
