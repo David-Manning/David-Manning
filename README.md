@@ -12,11 +12,11 @@ I am a data scientist and statistician
 - Data Formatter: [JSON](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-json.yaml) [XML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-xml.yaml) [YAML](https://github.com/David-Manning/prompt-library-public/blob/main/data-formatter/format-yaml.yaml)
 
 ### Starred Repo Lists
-- [https://github.com/stars/David-Manning/lists/dotfiles](Dotfiles)
-- [https://github.com/stars/David-Manning/lists/bayesian](Bayesian)
-- [https://github.com/stars/David-Manning/lists/my-repos](My repos)
-- [https://github.com/stars/David-Manning/lists/lists-and-data](Lists and data)
-- [https://github.com/stars/David-Manning/lists/discord-bots](Discord bots)
+- [Dotfiles](https://github.com/stars/David-Manning/lists/dotfiles)
+- [Bayesian](https://github.com/stars/David-Manning/lists/bayesian)
+- [My repos](https://github.com/stars/David-Manning/lists/my-repos)
+- [Lists and data](https://github.com/stars/David-Manning/lists/lists-and-data)
+- [Discord bots](https://github.com/stars/David-Manning/lists/discord-bots)
 
 ### Qualifications and Accreditations
 - GradStat (Royal Statistical Society)
