@@ -3,16 +3,9 @@
 I am a data scientist and statistician
 
 ### My Repos
-Public Repos: 
-- [Prompt library](https://github.com/David-Manning/prompt-library-public/tree/main) - a list of my prompts
-- [Knowledge store](https://github.com/David-Manning/knowledge-store) - notes and links
-
-Private repos: 
-- [Prompt library](https://github.com/David-Manning/prompt-library/tree/main) - a list of my prompts
-- [Dotfiles](https://github.com/David-Manning/dotfiles) - Linux setup
-
-Discord bots: 
- - [Percival](https://github.com/David-Manning/percival) - LLM powered assistant
+- Public Repos: [Prompt library](https://github.com/David-Manning/prompt-library-public/tree/main) / [Knowledge store](https://github.com/David-Manning/knowledge-store)
+- Private repos: [Prompt library](https://github.com/David-Manning/prompt-library/tree/main) / [Dotfiles](https://github.com/David-Manning/dotfiles)
+- Discord bots: [Percival](https://github.com/David-Manning/percival)
 
 ### Frequently accessed files
 * Prompt generator: [Link](https://github.com/David-Manning/prompt-library-public/blob/main/prompt-generator/prompt-generator.md)
