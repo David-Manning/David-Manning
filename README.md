@@ -14,3 +14,4 @@ I am a data scientist and statistician
 ### About me
 * Tech: R / Python / SQL / Bash / AWS
 * Qualifications: GradStat (Royal Statistical Society) / MSc Statistics (University of Sheffield) / BSc Mathematics (University of Sheffield)
+* Connect: [LinkedIn](https://www.linkedin.com/in/dl-manning/)
